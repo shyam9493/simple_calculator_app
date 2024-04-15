@@ -21,4 +21,5 @@ git clone https://github.com/shyam9493/simple_calculator.git
 2.Build and Run: Once your device is connected or the emulator is started, click on the green play button in the toolbar or select Run > Run 'app' from the menu.
 
 3.Wait for Installation: Android Studio will build the project and install the app on your device or emulator. Once the installation is complete, you should see the app running.
-![image](4WTqXY.png){: width="300px" height="600px" }
+![Phone](4WTqXY.png){: width="300px" height="600px" }
+
