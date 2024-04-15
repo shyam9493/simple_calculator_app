@@ -1,6 +1,5 @@
-# MyApp Repository
-
-Welcome to MyApp! This repository contains the source code for our amazing Android application.
+# Simple_Calculator Repository
+This repository contains the source code for our simple calculator.
 
 ## Prerequisites
 
