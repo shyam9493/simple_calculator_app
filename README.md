@@ -22,8 +22,10 @@ git clone https://github.com/shyam9493/simple_calculator.git
 
 3.Wait for Installation: Android Studio will build the project and install the app on your device or emulator. Once the installation is complete, you should see the app running.
 
-<img src="4WTqXY.png" alt="Phone" style="width: 300px; height: 600px;">
-<img src="CrYQ0T.png" alt="Phone" style="width: 300px; height: 600px;">
-<img src="k2BLJ9.png" alt="Phone" style="width: 300px; height: 600px;">
+<div style="display: flex;">
+    <img src="4WTqXY.png" alt="Phone" style="width: 300px; height: 600px; margin-right: 10px;">
+    <img src="CrYQ0T.png" alt="Phone" style="width: 300px; height: 600px; margin-right: 10px;">
+    <img src="k2BLJ9.png" alt="Phone" style="width: 300px; height: 600px;">
+</div>
 
 
