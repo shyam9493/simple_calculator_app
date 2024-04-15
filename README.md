@@ -28,4 +28,6 @@ git clone https://github.com/shyam9493/simple_calculator.git
     <img src="k2BLJ9.png" alt="Phone" style="width: 300px; height: 600px;">
 </div>
 
-
+#Note
+if there is any problem in running feel free to question
+and try to remove the images after cloning which are present outside the app such as("4WTqXY.png",etc)
