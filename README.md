@@ -14,7 +14,7 @@ To clone this repository to your local machine, use the following command in you
 
 ```bash
 git clone https://github.com/shyam9493/simple_calculator.git
-
+'''
 ## Running the App
 1.Connect a Device or Start an Emulator: You can run the app on a physical device connected to your computer via USB or use an Android Emulator provided by Android Studio.
 
