@@ -15,6 +15,8 @@ To clone this repository to your local machine, use the following command in you
 ```bash
 git clone https://github.com/shyam9493/simple_calculator.git
 ```
+
+
 ## Running the App
 1.Connect a Device or Start an Emulator: You can run the app on a physical device connected to your computer via USB or use an Android Emulator provided by Android Studio.
 
@@ -22,12 +24,14 @@ git clone https://github.com/shyam9493/simple_calculator.git
 
 3.Wait for Installation: Android Studio will build the project and install the app on your device or emulator. Once the installation is complete, you should see the app running.
 
+4.if there is any problem in running feel free to question and try to remove the images after cloning which are present outside the app such as("4WTqXY.png",etc)
+
+
+
 <div style="display: flex;">
     <img src="4WTqXY.png" alt="Phone" style="width: 300px; height: 600px; margin-right: 10px;">
     <img src="CrYQ0T.png" alt="Phone" style="width: 300px; height: 600px; margin-right: 10px;">
     <img src="k2BLJ9.png" alt="Phone" style="width: 300px; height: 600px;">
 </div>
 
-#Note
-if there is any problem in running feel free to question
-and try to remove the images after cloning which are present outside the app such as("4WTqXY.png",etc)
+
